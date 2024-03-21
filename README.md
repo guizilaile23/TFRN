@@ -12,6 +12,6 @@ and a few note:
 
 2、I remember the single_convert.py is used to debug the algorithm.
 
-3, if the debug results seems fine, then i will use batch_convert.py to generate the whitened dataset, then train a NN under the whitened dataset, and at the same time, train a NN with original dataset, so that my algorithm.
+3, if the debug results seems fine, then i will use batch_convert.py to generate the whitened dataset, then train a NN under the whitened dataset, and at the same time, train a NN with original dataset, so that my algorithm could be compared.
 
 4, finally, start with single_convert.py is recommended
