@@ -1,6 +1,17 @@
 # TFRN
 Code and data of paper: A texture feature removal network for sonar image classification and detection
 
+## Image Assets
+
+A high-quality SVG fighter jet image has been added to the repository:
+
+| File | Description |
+|------|-------------|
+| [`assets/fighter-jet.svg`](assets/fighter-jet.svg) | 写实电影风格现代隐形战斗机，穿越云层，金色阳光，1600×900 |
+| [`assets/fighter-jet.html`](assets/fighter-jet.html) | Showcase / preview page for the SVG image |
+
+![Fighter Jet Preview](assets/fighter-jet.svg)
+
 
 because the upload files must <25M, so i upload the source code on Baidu Netdisk.
 
