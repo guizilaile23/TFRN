@@ -7,7 +7,7 @@ A high-quality SVG fighter jet image has been added to the repository:
 
 | File | Description |
 |------|-------------|
-| [`assets/fighter-jet.svg`](assets/fighter-jet.svg) | 写实电影风格现代隐形战斗机，穿越云层，金色阳光，1600×900 |
+| [`assets/fighter-jet.svg`](assets/fighter-jet.svg) | Cinematic-style modern stealth fighter jet piercing clouds with golden sunlight, 1600×900 (写实电影风格战斗机) |
 | [`assets/fighter-jet.html`](assets/fighter-jet.html) | Showcase / preview page for the SVG image |
 
 ![Fighter Jet Preview](assets/fighter-jet.svg)
